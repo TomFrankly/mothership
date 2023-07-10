@@ -46,7 +46,8 @@ Output:
 "task_name": "Assemble new quiver of arrows",
 "due_date": "2023-06-13T13:00:00-06:00",
 "due_date_end":  "2023-06-13T17:00:00-06:00",
-"assignee": "Arwen"
+"assignee": "Arwen",
+"full_task_details": "Arwen needs to assemble a new quiver of arrows by tomorrow from 1pm to 5pm."
 }
 ]
 
