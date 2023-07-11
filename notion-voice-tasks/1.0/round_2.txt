@@ -24,7 +24,7 @@ Examples of tasks with low "due_date_confidence":
   "Prepare slides for my Friday presentation by Wednesday.",
   "Buy groceries for the family get-together before Thursday.",
   "Review notes by Monday evening for the solar car project.",
-    "Next Friday I need to take the dog to the vet.",
+  "Next Friday I need to take the dog to the vet.",
   "Get an outfit ready for the party by Tuesday afternoon.",
   "Organize materials for the workshop, due Sunday at 8pm.",
   "Today I need to sweep out the garage",
